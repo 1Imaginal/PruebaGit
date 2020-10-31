@@ -1,0 +1,23 @@
+commit 4c59c133c8c1861a4c6bae78bf9a517b5edd3195
+Author: JPPR <schism1@hotmail.com>
+Date:   Sat Oct 31 14:03:33 2020 -0600
+
+    Movi mi documento de word
+
+commit 7089f8bcd5ce1586ae3f3f0b77b942a00df2052a
+Author: JPPR <schism1@hotmail.com>
+Date:   Sat Oct 31 13:54:29 2020 -0600
+
+    Se puee regresar a principal
+
+commit eaf20262267ae7673857c782fa6b88e48c16d49d
+Author: JPPR <schism1@hotmail.com>
+Date:   Sat Oct 31 13:50:05 2020 -0600
+
+    Cambio titulo en principal
+
+commit aaa004b347679ceb0c4de8a3ffb91d23ef76ca01
+Author: JPPR <schism1@hotmail.com>
+Date:   Sat Oct 31 13:46:47 2020 -0600
+
+    Iniciamos
